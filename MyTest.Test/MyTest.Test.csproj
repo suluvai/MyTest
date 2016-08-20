@@ -56,6 +56,9 @@
     </Reference>
     <Reference Include="nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
       <HintPath>..\packages\NUnit.3.4.1\lib\net45\nunit.framework.dll</HintPath>
+	  <HintPath>C:\projects\mytest\packages\NUnit.3.4.1\lib\net45\nunit.framework.dll</HintPath>
+	  <HintPath>C:\Tools\Nunit\bin\lib\net45\nunit.framework.dll</HintPath>
+	  <HintPath>C:\Tools\Nunit\bin\nunit.framework.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="NUnit3.TestAdapter, Version=3.4.1.0, Culture=neutral, PublicKeyToken=4cb40d35494691ac, processorArchitecture=MSIL">
